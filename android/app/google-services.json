@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "686602671698",
+    "project_id": "freevid-4fd84",
+    "storage_bucket": "freevid-4fd84.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686602671698:android:0cf3c9ced3f8f9e90af18b",
+        "android_client_info": {
+          "package_name": "com.example.freevid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "686602671698-spu3t4p830udf5378kgfi8jr0apaonh9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD83xjsQcDvHbJMwt8AusiGL4ofwiz0oy0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "686602671698-spu3t4p830udf5378kgfi8jr0apaonh9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "686602671698-h32pbr3kq1gr2ar29v6bulqau2pg6os2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.freevid"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
