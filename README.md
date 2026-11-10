@@ -23,6 +23,18 @@ The NGO's volunteers took attendance on paper at every session. With many studen
 
 FreeVid turns attendance into a single tap. The teacher takes a photo of the student, the app recognises who it is, and attendance is saved instantly in the cloud. Admins can see who attended which session at any time.
 
+## 🎬 Demo
+
+<div align="center">
+
+<a href="https://www.youtube.com/shorts/A1V7Wlr_7XQ">
+  <img src="https://img.youtube.com/vi/A1V7Wlr_7XQ/hqdefault.jpg" alt="Watch the FreeVid demo on YouTube" width="320">
+</a>
+
+▶️ **[Watch the demo on YouTube](https://www.youtube.com/shorts/A1V7Wlr_7XQ)**
+
+</div>
+
 ## 🚀 Features
 
 | | Feature | What it does |
